@@ -1,0 +1,7 @@
+n1 = int(input("Enter your first value: "))
+
+n2 = int(input("Enter your second value: "))
+
+value = n1 * n2 / 2
+
+print(f"Total Value is {value}")
